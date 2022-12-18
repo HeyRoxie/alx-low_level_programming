@@ -15,6 +15,7 @@ int main(void)
 
 
 	char low, e, q;
+
 	e = 'e';
 	q = 'q';
 
